@@ -2,7 +2,7 @@
 -->
 Thomas Matheos
 
-Mathematics PhD student and UNT studying Set Theory.
+Mathematics PhD student at UNT studying Set Theory.
 <!--
 **ThomasMatheos/ThomasMatheos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
